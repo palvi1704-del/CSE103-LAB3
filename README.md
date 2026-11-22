@@ -1,3 +1,4 @@
+
 # CSE103 Lab — LAB 3: GitHub Collaboration & API Interaction
 
 ![Language](https://img.shields.io/badge/language-Python-blue)
@@ -66,3 +67,6 @@ Pallavi
 Computer Fundamentals & Career Pathways (CSE103)
 
 K.R. Mangalam University, Gurugram
+# CSE103-LAB3
+GitHub collaboration and markdown documentation
+
